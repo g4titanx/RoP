@@ -1,6 +1,5 @@
 # RoP
-experimental projects i consider a rite-of-passage for transcending from [inexperienced] into the top 90% [experienced] based on my terms
-this is a good reference: https://austinhenley.com/blog/challengingprojects.html
+experimental projects -> my rite-of-passage. this is a good reference: https://austinhenley.com/blog/challengingprojects.html
 
 ## projects
 - [ ] a state machine, something like the evm (vm) [2025]
@@ -10,5 +9,7 @@ this is a good reference: https://austinhenley.com/blog/challengingprojects.html
 - [ ] operating system
 - [ ] ray tracing [2025]
 - [ ] some 3D robot, havent't given it much thought
+- [ ] track government funds
+- [ ] build an open source version of etherscan
 
 all for learning and research purposes
